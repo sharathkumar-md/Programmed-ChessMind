@@ -1,1 +1,1 @@
-# Programmed-Chess-Mind
+# Programmed-ChessMind
